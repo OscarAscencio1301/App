@@ -1,0 +1,30 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    align-items: center;
+    width: 100%;
+    gap: 2rem;
+    height: 100vh;
+    justify-content: center;
+}
+.img1{
+    width: 200px;
+
+}
+
+.img{
+    border-radius: 50%;
+    width: 150px;
+    border: 5px solid rgb(0, 132, 255);
+    height: 150px;
+    
+}
+
+.uno{
+    display: flex;
+    justify-content: space-around;
+    /* gap: 2rem; */
+    margin: 2rem;
+    width: 100%;
+}
